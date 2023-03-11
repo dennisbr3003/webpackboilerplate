@@ -1,0 +1,1 @@
+(()=>{var e;console.log("index.js3"),(e=console).log.apply(e,[{name:"Dennis",premium:!0},{name:"Dennis2",premium:!0},{name:"Dennis7",premium:!1},{name:"Dennis10",premium:!0}])})();
